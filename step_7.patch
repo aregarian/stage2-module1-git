@@ -1,0 +1,24 @@
+From 2448376f701810dfebdda06a6adcf924620a0b9e Mon Sep 17 00:00:00 2001
+From: Fanny Dorthey <fannydor@va-j5.kzn.21-school.ru>
+Date: Wed, 29 Nov 2023 04:09:11 +0300
+Subject: [PATCH] Changed 2 lines in secondFile.txt in git_1
+
+---
+ secondFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/secondFile.txt b/secondFile.txt
+index 20b95be..a7745c7 100644
+--- a/secondFile.txt
++++ b/secondFile.txt
+@@ -1,5 +1,5 @@
+-Added secondFile.txt to git_1
+-Added secondFile.txt to git_1
++Adfghddded secondFile.txt to git_1
++Added dfgdfgsecondFile.txt to git_1
+ Added secondFile.txt to git_1
+ Added secondFile.txt to git_1
+ Added secondFile.txt to git_1
+-- 
+2.32.0 (Apple Git-132)
+
